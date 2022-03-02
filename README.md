@@ -3,3 +3,4 @@
 # Verkefni-1
 # Prufa
 # Prufa
+# Verkefni-2
